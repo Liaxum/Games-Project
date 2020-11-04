@@ -13,7 +13,7 @@ The following represents a small description of the game projects.
 
 ---
 
-## Project 1: RTS 
+## Project 1: **Magic Legions** 
 
 Oh... But what is it? Wouldn't this be the first game project? Exact!
 
@@ -28,5 +28,3 @@ Let's start:
 - Character: The character represents a person who commands an army. It will be editable as well as the country of origin. The character is part of a nation at war, and who participates in many battles to finally win this war.
 
 I would like to include something that doesn't necessarily appear in the 3C. For this game, I would desire wars between nations to be interactive. For example when a person engages in a battle against another person (in ranked or in another mode) according to the person and the nation to which it belongs the war evolves.
-
-And for this game I need an name idea.
